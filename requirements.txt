@@ -27,3 +27,15 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# ML DL
+tensorflow
+
+#for mac m1
+# tensorboard==2.7.0
+# tensorboard-data-server==0.6.1
+# tensorboard-plugin-wit==1.8.1
+# tensorflow-datasets==4.4.0
+# tensorflow-estimator==2.5.0
+# tensorflow-macos==2.5.0
+# tensorflow-metadata==1.5.0
